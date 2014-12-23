@@ -33,3 +33,4 @@ Aufwand: etwa 6 Personenmonate
 Team: *Ria*
       *Jochi*
       *Leo*
+      *Pat*
