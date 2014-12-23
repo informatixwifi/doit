@@ -30,5 +30,6 @@ Abgrenzung:
 
 Aufwand: etwa 6 Personenmonate 
 
+Team: *Ria*
+	Mario
 
-Mario
