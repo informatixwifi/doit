@@ -29,9 +29,11 @@ Abgrenzung:
 
 Aufwand: etwa 6 Personenmonate 
 
-Team: *Ria*
+Team: 
+	*Heidi*
+	*Ria*
        -Mario-
         *Jochi*
       *Leo*
-	*Heidi*
+      *Pat*
 
