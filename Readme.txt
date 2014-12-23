@@ -1,5 +1,4 @@
 ﻿DoIT!
-
 Das DoIT! System stellt die Aufgabenverwaltung und Verteilung übersichtlich dar und ermöglicht die Aktualisierung sowie den Abschluss der Aufgaben. Eine schnelle Kommunikation zwischen Mitarbeitern und zu Kunden wird ermöglicht.
 
 Die wichtigsten Features sollen sein:
@@ -31,6 +30,7 @@ Abgrenzung:
 Aufwand: etwa 6 Personenmonate 
 
 Team: *Ria*
-	Mario
+       -Mario-
         *Jochi*
+      *Leo*
 
