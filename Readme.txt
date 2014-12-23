@@ -1,34 +1,34 @@
 DoIT!
 
-Das DoIT! System stellt die Aufgabenverwaltung und Verteilung übersichtlich dar und ermöglicht die Aktualisierung sowie den Abschluss der Aufgaben. Eine schnelle Kommunikation zwischen Mitarbeitern und zu Kunden wird ermöglicht.
+Das DoIT! System stellt die Aufgabenverwaltung und Verteilung Ã¼bersichtlich dar und ermÃ¶glicht die Aktualisierung sowie den Abschluss der Aufgaben. Eine schnelle Kommunikation zwischen Mitarbeitern und zu Kunden wird ermÃ¶glicht.
 
 Die wichtigsten Features sollen sein:
--Aufgabenverwaltung (anlegen, bearbeiten, Status updaten, löschen*, delegieren, aktiv übernehmen)
+-Aufgabenverwaltung (anlegen, bearbeiten, Status updaten, lÃ¶schen*, delegieren, aktiv Ã¼bernehmen)
 -Benutzer und Berechtigungsverwaltung
--Öffentliche und private Kommunikation im DoIT!-Chatsystem mit und ohne TODO Bezug.
+-Ã–ffentliche und private Kommunikation im DoIT!-Chatsystem mit und ohne TODO Bezug.
 Weitere Ausbaustufen:
--Reporting (Auswertung auf Basis der Benutzergruppe, Taskstatus …)
+-Reporting (Auswertung auf Basis der Benutzergruppe, Taskstatus â€¦)
 -Projektverwaltung
 - Mobile Applikation
 - Webapplikation
-- eigenes Profil für Benutzer (Kreise wie Google+, Ausbildung, Privates, Skills)
+- eigenes Profil fÃ¼r Benutzer (Kreise wie Google+, Ausbildung, Privates, Skills)
 
 Vorrausetzungen:
 - Webserver
 - Datenbank
-- Kundenzugriff über Internet (eingeschränkt)
+- Kundenzugriff Ã¼ber Internet (eingeschrÃ¤nkt)
 - Ansprechperson Enduser
 
 Abgrenzung: 
 - Keine Anbindung an Active Directory
 - Keine Video/Voice Calls
-- Kein Tool für Dokumentenmanagement
+- Kein Tool fÃ¼r Dokumentenmanagement
 - Keine Integration von bestehenden Projektmanagementtools
 - Kein flexibler Prozess (fixe Vorgabe)
-- Kein Service Level Agreement für Kunden
+- Kein Service Level Agreement fÃ¼r Kunden
 - Mehrsprachigkeit
 
 Aufwand: etwa 6 Personenmonate 
 
 Team: *Ria*
-
+      *Jochi*
